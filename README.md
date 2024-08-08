@@ -2,7 +2,3 @@
 <p align="center">
   <a align="center "href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Fast%20learner&center=true&width=550&height=50"></a>
 </p>
-
-##  About me
-<br>
-- :school: Currently `Cse Student` METHODIST COLLEGE OF ENGINEERING & TECHNOLOGY
