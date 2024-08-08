@@ -5,4 +5,4 @@
 
 ##  About me
 <br>
-- :school: Currently a `CSE Student` in METHODIST COLLEGE OF ENGINEERING & TECHNOLOGY
+- :school: Currently a `Cse Student` in METHODIST COLLEGE OF ENGINEERING & TECHNOLOGY
